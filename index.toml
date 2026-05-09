@@ -1,0 +1,69 @@
+hash-format = "sha256"
+
+[[files]]
+file = "global_packs/required_data/allthemons.pw.toml"
+hash = "199cbf9de616844d09c34f5c60e7025a1310a4a921f4ffdb872e0aba935a47f5"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/allthemons.pw.toml"
+hash = "d513746f3ff2c6e6005716fe9d3f885ae0d8e0cf7aee5843a500a2a8efabd5a7"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/rct-trainer-textures-plus.pw.toml"
+hash = "a958030f95997d32191ffd80d656314b86747c46adfb16a3a128389d6a3ff6c9"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mega-showdown.pw.toml"
+hash = "279df0fd6a08ca3ebb2eee7266ef309e5960d4ddbc6d0c5eaced9e482b21af9d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "e8506cd3259cf74eb5297dc8995c958782ec5b1d9d5fe0b8b88ddd81031a5398"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
+metafile = true
+
+[[files]]
+file = "mods/radical-cobblemon-trainers-api.pw.toml"
+hash = "bfd25da455b070b89c77ac91ce1ff567105dd6f8be7d31432c7a517a54a07a24"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "5e9f4ef21cd4d64f62be84aca01d81a550e8f38e60ec712d531bb4d06b98e88c"
+metafile = true
+
+[[files]]
+file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
+hash = "8d00e5d6c44ec2ebb13b2659225091a81c62e15b7093acbb1b37957be0465fed"
+metafile = true
+
+[[files]]
+file = "notes/cobblemods.md"
+hash = "55e0fcb9d72896030ef351ada5d3351aa9bd500fe4a860540de40850f3b2fdcd"
+
+[[files]]
+file = "push.bat"
+hash = "ff44a16b83112ffb0f91717a9a37e3ca4338b68aa4a6661f183ce35fef718c84"

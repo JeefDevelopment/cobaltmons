@@ -1,0 +1,17 @@
+name = "Cobaltmons"
+author = "Jeef"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "603f2be87f42c25bf253811a7071705019926b76d44a5ee2f4534167d3accd14"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.208"
+
+[options]
+datapack-folder = "global_packs/required_resources"
+resourcepack-folder = "global_packs/required_resources"
