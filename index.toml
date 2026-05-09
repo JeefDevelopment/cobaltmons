@@ -1,13 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "global_packs/required_data/allthemons.pw.toml"
-hash = "199cbf9de616844d09c34f5c60e7025a1310a4a921f4ffdb872e0aba935a47f5"
-metafile = true
-
-[[files]]
 file = "global_packs/required_resources/allthemons.pw.toml"
-hash = "d513746f3ff2c6e6005716fe9d3f885ae0d8e0cf7aee5843a500a2a8efabd5a7"
+hash = "199cbf9de616844d09c34f5c60e7025a1310a4a921f4ffdb872e0aba935a47f5"
 metafile = true
 
 [[files]]
@@ -66,4 +61,4 @@ hash = "55e0fcb9d72896030ef351ada5d3351aa9bd500fe4a860540de40850f3b2fdcd"
 
 [[files]]
 file = "push.bat"
-hash = "ff44a16b83112ffb0f91717a9a37e3ca4338b68aa4a6661f183ce35fef718c84"
+hash = "9d8364022d2c7f06eff3cad60f9171ecb8c8eace7d0a160ea2b2ec24ed63e878"
