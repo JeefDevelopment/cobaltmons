@@ -1,12 +1,12 @@
 name = "Cobaltmons"
 author = "Jeef"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c0ee498c9b3e6ceba104d0828a2b0862cf333786127e86abf870afd63157e834"
+hash = "6bf531b35d5b83774e47b40724b6541677703ddb50f0f444b7ee379bb3765389"
 
 [versions]
 minecraft = "1.21.1"
